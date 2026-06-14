@@ -218,15 +218,6 @@ php -S localhost:8000
 ```
 http://localhost:8000
 ```
-
-### Default Login Credentials
-
-| Username | Password | Role |
-|----------|----------|------|
-| salma | 123456 | Admin |
-
----
-
 ## 📱 Usage
 
 ### 1. **Landing Page**
